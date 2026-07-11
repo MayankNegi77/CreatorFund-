@@ -196,7 +196,8 @@ This project demonstrates:
 
 ## Author
 
-Mayank Singh Negi
+Mayank Singh Negi   
+
 B.Tech CSE, Graphic Era Hill University
 
 ## Learn More
